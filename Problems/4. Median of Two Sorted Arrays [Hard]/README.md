@@ -1,8 +1,5 @@
-
-<div style="text-align:center">
 # Median of Two Sorted Arrays
 <img src="https://img.shields.io/badge/LeetCode-Hard-red" />
-</div>
 
 ### DESCRIPTION
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
@@ -49,6 +46,4 @@ nums2.length == n
 -106 <= nums1[i], nums2[i] <= 106  
 
 
-<div style="text-align:center">
 <img src="https://img.shields.io/badge/AshBoy-PixlPerfect-blueviolet" />
-</div>
