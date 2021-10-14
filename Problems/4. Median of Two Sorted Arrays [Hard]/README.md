@@ -1,6 +1,9 @@
 # Median of Two Sorted Arrays
 <img src="https://img.shields.io/badge/LeetCode-Hard-red" />
 
+<img src="https://img.shields.io/badge/AshBoy-PixlPerfect-blueviolet" />
+
+
 ### DESCRIPTION
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
 The overall run time complexity should be **O(log (m+n))**.
@@ -45,5 +48,3 @@ nums2.length == n
 1 <= m + n <= 2000  
 -106 <= nums1[i], nums2[i] <= 106  
 
-
-<img src="https://img.shields.io/badge/AshBoy-PixlPerfect-blueviolet" />
