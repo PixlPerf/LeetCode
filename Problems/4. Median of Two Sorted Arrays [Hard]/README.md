@@ -1,7 +1,5 @@
 # Median of Two Sorted Arrays
-<img src="https://img.shields.io/badge/LeetCode-Hard-red" />
-
-<img src="https://img.shields.io/badge/AshBoy-PixlPerfect-blueviolet" />
+<img src="https://img.shields.io/badge/LeetCode-Hard-red" /> <img src="https://img.shields.io/badge/AshBoy-PixlPerfect-blueviolet" />
 
 
 ### DESCRIPTION
