@@ -15,3 +15,6 @@ var findMedianSortedArrays = function (nums1, nums2) {
     }
     return median;
 };
+
+
+module.exports = findMedianSortedArrays;
